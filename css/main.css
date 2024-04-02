@@ -1,0 +1,108 @@
+/* Global Styles */
+
+body {
+    font-family: Arial, sans-serif;
+}
+
+a {
+    color: #006400; /* Dark green */
+    text-decoration: none;
+}
+
+a:hover {
+    color: #008000; /* Dark green - lighter */
+}
+
+/* Navbar Styles */
+
+.navbar {
+    background-color: #FFA500; /* Mid orange */
+    color: #006400; /* Dark green */
+}
+
+.navbar-brand {
+    font-weight: bold;
+    color: #006400; /* Dark green */
+}
+
+.navbar-nav .nav-link {
+    color: #006400; /* Dark green */
+}
+
+.navbar-nav .nav-link:hover {
+    color: #008000; /* Dark green - lighter */
+}
+
+.navbar-toggler-icon {
+    color: #006400; /* Dark green */
+}
+
+/* Page Content Styles */
+
+.page-content {
+    padding: 50px 0;
+}
+
+/* Footer Styles */
+
+.footer {
+    background-color: darkgreen;
+    color: orange;
+    padding: 20px;
+}
+
+.footer a {
+    color: orange;
+}
+
+.footer a:hover {
+    color: #FFA500; /* Mid orange */
+}
+
+.social-icons a {
+    color: orange;
+    font-size: 24px;
+    margin-right: 10px;
+}
+
+/* Card Styles (Services Page) */
+
+.card {
+    margin-bottom: 20px;
+    border: none;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.card-title {
+    color: #006400; /* Dark green */
+}
+
+.card-text {
+    color: #333; /* Dark gray */
+}
+
+/* Form Styles (Contact Page) */
+
+.form-label {
+    color: #006400; /* Dark green */
+}
+
+.btn-primary {
+    background-color: #FFA500; /* Mid orange */
+    border-color: #FFA500; /* Mid orange */
+}
+
+.btn-primary:hover {
+    background-color: #FFA500; /* Mid orange */
+    border-color: #FFA500; /* Mid orange */
+}
+
+.btn-warning {
+    background-color: #FFA500; /* Mid orange */
+    border-color: #FFA500; /* Mid orange */
+}
+
+.btn-warning:hover {
+    background-color: #FFA500; /* Mid orange */
+    border-color: #FFA500; /* Mid orange */
+}
